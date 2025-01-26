@@ -5,8 +5,8 @@ import Dashboard from "./DataGen/Dashboard";
 const App = () => {
   return (
     <div>
-      {/* <Dashboard /> */}
-      <MainSoldierDashboard />
+      <Dashboard />
+      {/* <MainSoldierDashboard /> */}
     </div>
   );
 };
